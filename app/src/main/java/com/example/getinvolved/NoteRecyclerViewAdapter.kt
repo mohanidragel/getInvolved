@@ -1,4 +1,4 @@
-package com.example.androidgettingstarted
+package com.example.getinvolved
 
 import android.view.LayoutInflater
 import android.view.View
