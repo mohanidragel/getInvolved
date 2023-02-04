@@ -10,6 +10,11 @@
       "StackName": "amplify-getinvolved-dev-224317",
       "StackId": "arn:aws:cloudformation:eu-west-1:684561230550:stack/amplify-getinvolved-dev-224317/a82561f0-a1b8-11ed-b595-066eb81cd643",
       "AmplifyAppId": "d1ylxhdxoo6963"
+    },
+    "categories": {
+      "auth": {
+        "getinvolvedefc87fdc": {}
+      }
     }
   }
 }
