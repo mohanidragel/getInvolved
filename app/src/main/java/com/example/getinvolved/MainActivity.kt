@@ -55,6 +55,8 @@ class MainActivity : AppCompatActivity() {
 
             // let's create a RecyclerViewAdapter that manages the individual cells
             recyclerView.adapter = NoteRecyclerViewAdapter(notes)
+            val itemTouchHelper = ItemTouchHelper(SwipeCallback(this))
+            itemTouchHelper.attachToRecyclerView(recyclerView)
         })
     }
 
